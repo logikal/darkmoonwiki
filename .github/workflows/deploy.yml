@@ -44,5 +44,5 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy book --project-name=darkmoonwiki
+          command: pages deploy book --commit-dirty=true --project-name=darkmoonwiki
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
