@@ -30,13 +30,16 @@ jobs:
           # Just add a `cd` here if you need to change to another directory.
           mdbook build
       - name: Setup Pages
+        if: github.event_name == 'push'
         uses: actions/configure-pages@v5
       - name: Upload artifact
+        if: github.event_name == 'push'
         uses: actions/upload-pages-artifact@v4
         with:
           # Upload entire repository
           path: 'book'
       - name: Deploy to GitHub Pages
+        if: github.event_name == 'push'
         id: deployment
         uses: actions/deploy-pages@v4
       - name: Deploy to Cloudflare Pages
