@@ -12,7 +12,7 @@ We've observed and experimentally confirmed that different filaments require dif
 
 Making the change in the filament profile lets you tune the z-offset for each filament instead of changing it for all filaments and plates.
 
-![Filament Settings G-Code](filament_settings_gcode.png)
+![Filament Settings G-Code](images/filament_settings_gcode.png)
 
 Edit the Filament Start G-Code to add a Z-offset adjustment. This gcode will add a small amount of lift to the nozzle. You'll want to tune this in very small steps.
 
