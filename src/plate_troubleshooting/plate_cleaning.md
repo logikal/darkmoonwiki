@@ -20,3 +20,11 @@ Try your print again. If it's still not good, try the next step.
 > Do not use IPA or soap on the ICE plate!
 >
 > It may not immediately damage the plate, but will cause it to degrade quicker than normal
+
+## No, wiping with IPA isn't cleaning
+
+Wiping with IPA is more like sweeping; it can remove some surface contaminants, but it's not _cleaning_.
+
+This is an extreme example of what happens when you wipe with IPA instead of cleaning. This is the _bottom surface of a print_ on a plate that was wiped with IPA instead of being properly cleaned.
+
+![IPA wiped surface](images/post-IPA-print.jpg)
