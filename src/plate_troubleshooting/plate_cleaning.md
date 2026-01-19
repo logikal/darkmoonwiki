@@ -23,7 +23,7 @@ Try your print again. If it's still not good, try the next step.
 
 ## No, wiping with IPA isn't cleaning
 
-Wiping with IPA is more like sweeping; it can remove some surface contaminants, but it's not _cleaning_.
+Wiping with IPA is more like sweeping; it can remove some surface contaminants, but it's not _cleaning_. If there's enough crud on the plate, you're more likely to just spread it around than remove it.
 
 This is an extreme example of what happens when you wipe with IPA instead of cleaning. This is the _bottom surface of a print_ on a plate that was wiped with IPA instead of being properly cleaned.
 
